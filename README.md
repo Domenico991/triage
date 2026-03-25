@@ -12,12 +12,33 @@
   - joblib
 
 Installazione rapida:
+Installare Miniconda (oppure installare direttamente Python 3.11 nel sistema. In questo caso passare direttamente al punto 3)
 
-```bash
-pip install pandas scikit-learn streamlit joblib
-```
+Aprire il terminale cmd nella cartella dove si trova il programma e:
 
----
+1) conda create -p ./env python=3.11 -y
+
+2) conda activate ./env
+
+3) pip install pandas scikit-learn streamlit joblib
+
+Generazione dataset sintetico
+4) python src/generate_dataset.py
+
+Addestramento e valutazione modelli
+5) python src/train_model.py
+
+Avvio
+6) streamlit run src/app.py
+
+
+ESECUZIONE 
+
+Da terminale cmd, nella cartella del progetto, digitare:
+
+1) conda activate ./env
+
+2) streamlit run src/app.py
 
 ## Struttura del progetto
 
@@ -44,37 +65,6 @@ project/
 
 ---
 
-## Esecuzione del prototipo
-
-### 1. Generazione dataset sintetico
-
-```bash
-python src/generate_dataset.py
-```
-
-Output:
-- `data/tickets_synthetic.csv`
-
----
-
-### 2. Addestramento e valutazione modelli
-
-```bash
-python src/train_model.py
-```
-
-Output:
-- metriche stampate a console (accuracy, F1, confusion matrix)
-- modelli salvati in `models/`
-
----
-
-### 3. Avvio dashboard
-
-```bash
-streamlit run src/app.py
-```
-
 Funzionalità:
 - inserimento manuale di un ticket;
 - visualizzazione categoria e priorità previste;
@@ -91,8 +81,4 @@ Funzionalità:
 - Dashboard interattiva
 
 ---
-
-## Note
-
-Il progetto è pensato come **proof-of-concept** didattico, facilmente estendibile a dati reali previo opportuno preprocessing e validazione.
 
