@@ -1,0 +1,1 @@
+conda activate ./env & streamlit run src/app.py

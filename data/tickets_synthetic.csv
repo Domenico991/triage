@@ -1,0 +1,301 @@
+id,title,body,category,priority
+0,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+1,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+2,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+3,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+4,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+5,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+6,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+7,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+8,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+9,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+10,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+11,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+12,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+13,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+14,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+15,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+16,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+17,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+18,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+19,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+20,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+21,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+22,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+23,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+24,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+25,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+26,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+27,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+28,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+29,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+30,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+31,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+32,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+33,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+34,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+35,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+36,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+37,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+38,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+39,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+40,Problema accesso,Applicazione bloccante dopo l’accesso,Tecnico,alta
+41,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+42,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+43,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+44,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+45,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+46,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+47,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+48,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+49,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+50,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+51,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+52,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+53,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+54,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+55,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+56,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+57,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+58,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+59,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+60,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+61,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+62,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+63,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+64,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+65,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+66,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+67,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+68,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+69,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+70,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+71,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+72,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+73,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+74,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+75,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+76,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+77,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+78,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+79,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+80,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+81,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+82,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+83,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+84,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+85,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+86,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+87,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+88,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+89,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+90,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+91,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+92,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+93,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+94,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+95,Problema accesso,Applicazione bloccante dopo l’accesso,Tecnico,alta
+96,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+97,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+98,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+99,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+100,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+101,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+102,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+103,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+104,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+105,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+106,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+107,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+108,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+109,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+110,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+111,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+112,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+113,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+114,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+115,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+116,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+117,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+118,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+119,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+120,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+121,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+122,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+123,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+124,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+125,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+126,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+127,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+128,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+129,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+130,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+131,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+132,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+133,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+134,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+135,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+136,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+137,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+138,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+139,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+140,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+141,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+142,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+143,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+144,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+145,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+146,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+147,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+148,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+149,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+150,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+151,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+152,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+153,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+154,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+155,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+156,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+157,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+158,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+159,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+160,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+161,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+162,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+163,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+164,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+165,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+166,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+167,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+168,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+169,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+170,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+171,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+172,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+173,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+174,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+175,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+176,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+177,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+178,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+179,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+180,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+181,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+182,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+183,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+184,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+185,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+186,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+187,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+188,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+189,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+190,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+191,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+192,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+193,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+194,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+195,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+196,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+197,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+198,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+199,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+200,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+201,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+202,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+203,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+204,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+205,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+206,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+207,Errore applicazione,Il sistema restituisce un errore critico,Tecnico,alta
+208,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+209,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+210,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+211,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+212,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+213,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+214,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+215,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+216,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+217,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+218,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+219,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+220,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+221,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+222,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+223,Problema accesso,Applicazione bloccante dopo l’accesso,Tecnico,alta
+224,Richiesta nota di credito,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+225,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+226,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+227,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+228,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+229,Domanda su ordine,Vorrei ricevere un’offerta aggiornata,Commerciale,media
+230,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+231,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+232,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+233,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+234,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+235,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+236,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+237,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+238,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+239,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+240,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+241,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+242,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+243,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+244,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+245,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+246,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+247,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+248,Errore applicazione,Impossibile completare l’operazione,Tecnico,alta
+249,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+250,Informazioni prezzi,Informazioni su sconti e prezzi,Commerciale,bassa
+251,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+252,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+253,Problema fattura,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+254,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+255,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+256,Sistema bloccato,Applicazione bloccante dopo l’accesso,Tecnico,alta
+257,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+258,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+259,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+260,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+261,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+262,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+263,Problema fattura,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+264,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+265,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+266,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+267,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+268,Informazioni prezzi,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+269,Pagamento non registrato,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+270,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+271,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+272,Problema accesso,Il sistema restituisce un errore critico,Tecnico,alta
+273,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+274,Richiesta offerta,Vorrei ricevere un’offerta aggiornata,Commerciale,bassa
+275,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+276,Richiesta offerta,Informazioni su sconti e prezzi,Commerciale,bassa
+277,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+278,Problema accesso,Applicazione bloccante dopo l’accesso,Tecnico,alta
+279,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+280,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+281,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+282,Problema accesso,Applicazione bloccante dopo l’accesso,Tecnico,alta
+283,Richiesta offerta,Chiarimenti sullo stato dell’ordine,Commerciale,media
+284,Richiesta nota di credito,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+285,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+286,Domanda su ordine,Chiarimenti sullo stato dell’ordine,Commerciale,media
+287,Problema accesso,Impossibile completare l’operazione,Tecnico,bassa
+288,Sistema bloccato,Il sistema restituisce un errore critico,Tecnico,alta
+289,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+290,Pagamento non registrato,Serve chiarimento su una fattura scaduta,Amministrazione,media
+291,Informazioni prezzi,Chiarimenti sullo stato dell’ordine,Commerciale,media
+292,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+293,Errore applicazione,Applicazione bloccante dopo l’accesso,Tecnico,alta
+294,Pagamento non registrato,Il pagamento risulta effettuato ma non compare,Amministrazione,media
+295,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
+296,Domanda su ordine,Informazioni su sconti e prezzi,Commerciale,media
+297,Richiesta nota di credito,La fattura di marzo presenta un errore di importo,Amministrazione,alta
+298,Problema fattura,Serve chiarimento su una fattura scaduta,Amministrazione,bassa
+299,Sistema bloccato,Impossibile completare l’operazione,Tecnico,bassa
