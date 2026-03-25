@@ -1,14 +1,5 @@
 # Triage automatico dei ticket con Machine Learning
 
-## Obiettivo del progetto
-Realizzare un **prototipo minimale e riproducibile** per lo smistamento automatico di ticket aziendali, a partire da testi brevi (titolo + descrizione), con:
-- classificazione della **categoria** (Amministrazione, Tecnico, Commerciale);
-- stima della **priorità operativa** (bassa, media, alta);
-- valutazione quantitativa di base (accuracy, F1 macro);
-- interfaccia grafica per l’utilizzo interattivo.
-
-Tutti i dati sono **sintetici**, generati ad hoc, e non contengono informazioni personali.
-
 ---
 
 ## Requisiti
